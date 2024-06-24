@@ -11,6 +11,9 @@ Repositório para exemplos de POO do curso de Java básico pela DIO.
 * Classes
 * Pacotes
 * Visibilidade de recursos (mod. de acessos)
+* Getter e Setters
+* Construtores
+* Enums
 
 Exemplo de nomenclatura para pacotes:
 
@@ -21,3 +24,5 @@ Exemplo de nomenclatura para pacotes:
 > Ainda é possível melhorar a organização do projeto criando mais pacotes específicos, como `model`, `repository`, `service`, `controller`, `view`, `util`, entre outras.
 
 Modificadores de acesso: `default`, `public`, `private`
+
+>Recomendado criar construtores apenas com atributos necessários para a criação do objeto e construtor vazio.
